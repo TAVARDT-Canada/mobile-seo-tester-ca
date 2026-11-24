@@ -49,3 +49,7 @@ For cloud-based mobile compatibility audits:
 ## Technical Inquiries
 
 For technical assistance in line with Treasury Board of Canada Web Standards and Google Mobile-First, contact the specialists at **TAVARDT Canada**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
