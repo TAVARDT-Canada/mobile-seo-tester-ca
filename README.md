@@ -52,4 +52,12 @@ For technical assistance in line with Treasury Board of Canada Web Standards and
 
 ***
 
+## Useful Links
+
+* **Corporate Portal:** https://ag.tavardt.com/ca/
+* **Diagnostic Suite:** https://tools.tavardt.com/ca/
+* **Technical Contact:** https://ag.tavardt.com/ca/contact/
+
+***
+
 © 2026 TAVARDT. All rights reserved.
