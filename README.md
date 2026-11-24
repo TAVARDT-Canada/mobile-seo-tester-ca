@@ -5,7 +5,7 @@
 
 Auditing viewport configurations, touch target sizes, and mobile viewport ergonomics.
 
-Developed and maintained by the web performance architecture group at **TAVARDT Canada**.
+Developed and maintained by the web performance architecture group at **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python mobile_seo_tester.py https://enterprise.ca -json
 For cloud-based mobile compatibility audits:
 
 * **Official Mobile SEO Checker**
-* **TAVARDT Canada Portal**
+* **TAVARDT Portal**
 
 ***
 
 ## Technical Inquiries
 
-For technical assistance in line with Treasury Board of Canada Web Standards and Google Mobile-First, contact the specialists at **TAVARDT Canada**.
+For technical assistance in line with Treasury Board of Canada Web Standards and Google Mobile-First, contact the specialists at **TAVARDT**.
 
 ***
 
