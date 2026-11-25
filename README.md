@@ -2,6 +2,7 @@
 
 [![Mobile SEO Validator](https://img.shields.io/badge/TAVARDT-Mobile%20SEO-5b3cf5.svg)](https://tools.tavardt.com/ca/mobile-seo-checker/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Auditing viewport configurations, touch target sizes, and mobile viewport ergonomics.
 
@@ -57,6 +58,11 @@ For technical assistance in line with Treasury Board of Canada Web Standards and
 * **Corporate Portal:** https://ag.tavardt.com/ca/
 * **Diagnostic Suite:** https://tools.tavardt.com/ca/
 * **Technical Contact:** https://ag.tavardt.com/ca/contact/
+
+***
+
+### License
+Released under the MIT License. See [LICENSE](LICENSE) for full details.
 
 ***
 
