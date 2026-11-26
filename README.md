@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://ag.tavardt.com/ca/">
+    <img src="https://ag.tavardt.com/img/tavardt-banner.png" alt="TAVARDT" width="1024" />
+  </a>
+</p>
+
 # Mobile SEO and Responsive Design Validator
 
 [![Mobile SEO Validator](https://img.shields.io/badge/TAVARDT-Mobile%20SEO-5b3cf5.svg)](https://tools.tavardt.com/ca/mobile-seo-checker/)
